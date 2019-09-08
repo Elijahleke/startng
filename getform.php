@@ -1,11 +1,10 @@
 <?php
-echo $_POST["name"]
+echo $_POST["name"];
 echo "<br><br>";
-echo $_POST["email"]
+echo $_POST["email"];
 echo "<br><br>";
-echo $_POST["title"]
+echo $_POST["title"];
 echo "<br><br>";
 echo "<br><br>";
-echo $_POST["message"]
-
+echo $_POST["message"];
 ?>
